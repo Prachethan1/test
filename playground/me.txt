@@ -1,5 +1,0 @@
-{{#user}}
-Name: Mayawar Prachethan
-Skills: HTML, CSS, JS, Next.js
-Email: mayawarprachethan123@gmail.com
-{{/user}}
